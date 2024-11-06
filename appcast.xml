@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>spatialdemo</title>
+        <title>Spatial Demo</title>
         <item>
             <title>0.2</title>
-            <pubDate>Fri, 01 Nov 2024 22:50:43 +0100</pubDate>
-            <sparkle:version>200</sparkle:version>
+            <pubDate>Wed, 06 Nov 2024 11:56:21 +0100</pubDate>
+            <sparkle:version>210</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kicsipixel/spatialdemo/releases/download/Build200/SpatialDemo.dmg" length="9161307" type="application/octet-stream" sparkle:edSignature="xwnZ20A9AFMmL7+tZWEUiqm0naReLaDbAZ414lyKcS/02J4LDA/Qx0lTdTnFkCTbDXmkcRZRXZCHeZcOZ4/dBw=="/>
+            <enclosure url="https://github.com/kicsipixel/spatialdemo/releases/download/Build210/SpatialDemo.dmg" length="8465820" type="application/octet-stream" sparkle:edSignature="Utci0hEFddqIoECat3tpqhh3J32svBVTt4pzfDgRs+o54MWwdYbor3Q0iu0qaEvTqDyauUrc71DLX3XMz9ClAA=="/>
         </item>
     </channel>
 </rss>
