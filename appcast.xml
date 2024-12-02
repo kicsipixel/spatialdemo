@@ -3,12 +3,12 @@
     <channel>
         <title>Spatial Demo</title>
         <item>
-            <title>0.3</title>
-            <pubDate>Wed, 06 Nov 2024 21:22:29 +0100</pubDate>
-            <sparkle:version>300</sparkle:version>
-            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+            <title>0.4</title>
+            <pubDate>Mon, 02 Dec 2024 21:31:36 +0100</pubDate>
+            <sparkle:version>400</sparkle:version>
+            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kicsipixel/spatialdemo/releases/download/Build300/SpatialDemo.dmg" length="8484461" type="application/octet-stream" sparkle:edSignature="xzuVMGozUJGNAmGq0ZzuEQIMnMmWajMr01YDaQ7VqEeXowUmTaNVRqhr9evC6PqgW48FvvqLo+MQc+FK/QSEAA=="/>
+            <enclosure url="https://github.com/kicsipixel/spatialdemo/releases/download/Build400/SpatialDemo.dmg" length="8675553" type="application/octet-stream" sparkle:edSignature="KN+I/fA/0yLw6rGxbDPY1MBU64+wCrHROh1Hip4nnkL+cwZJhRti9BG8qy8EJlIpdfHWOfWDOVfYm9tgF+A+Ag=="/>
         </item>
     </channel>
 </rss>
